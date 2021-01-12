@@ -1,0 +1,15 @@
+﻿  TicTacToe_Server_SSL.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(102,21): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(161,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(210,19): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(243,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(244,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(258,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe SSL Server\TicTacToe_Server_SSL.cpp(179,8): warning C4101: 'playerIP': unreferenced local variable
+     Creating library C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Release\Tic Tac Toe SSL Server.lib and object C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Release\Tic Tac Toe SSL Server.exp
+  Generating code
+  3 of 104 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tic Tac Toe SSL Server.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Release\Tic Tac Toe SSL Server.exe

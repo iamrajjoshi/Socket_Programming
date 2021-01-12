@@ -1,0 +1,5 @@
+﻿  Web Client.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Web Client\Web Client.cpp(46,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Web Client\Web Client.cpp(56,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Web Client\Web Client.cpp(74,21): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Web Client.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Debug\Web Client.exe

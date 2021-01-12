@@ -1,0 +1,11 @@
+﻿  Webcrawler.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(37,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(51,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(79,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(80,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(142,19): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(203,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(215,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(216,42): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Webcrawler\Webcrawler.cpp(220,58): warning C4018: '<=': signed/unsigned mismatch
+  Webcrawler.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Debug\Webcrawler.exe

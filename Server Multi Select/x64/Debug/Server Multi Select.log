@@ -1,0 +1,4 @@
+﻿  Server Multi Select.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Server Multi Select\Server Multi Select.cpp(48,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Server Multi Select\Server Multi Select.cpp(71,31): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Server Multi Select.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Debug\Server Multi Select.exe

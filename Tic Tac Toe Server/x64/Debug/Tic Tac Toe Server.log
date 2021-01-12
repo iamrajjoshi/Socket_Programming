@@ -1,0 +1,4 @@
+﻿  Tic_Tac_Toe Server.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe Server\Tic_Tac_Toe Server.cpp(50,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Tic Tac Toe Server\Tic_Tac_Toe Server.cpp(77,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Tic Tac Toe Server.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Debug\Tic Tac Toe Server.exe

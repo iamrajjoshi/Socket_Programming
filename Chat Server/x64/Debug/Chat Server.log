@@ -1,0 +1,4 @@
+﻿  Chat Server.cpp
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Chat Server\Chat Server.cpp(48,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\Chat Server\Chat Server.cpp(71,25): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Chat Server.vcxproj -> C:\Users\geeky\MEGA\Workspace\Visual Studio 2019\Socket Programming\x64\Debug\Chat Server.exe
